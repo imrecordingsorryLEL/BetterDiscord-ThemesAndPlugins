@@ -10,12 +10,12 @@
 @import url('https://raw.githubusercontent.com/empTheGoat/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
 
 :root{
-    --background: url('https://i.pinimg.com/originals/6b/6d/c2/6b6dc2cf132ca0e9fc1ad397e59edb68.gif');
+    --background: url('https://i.gifer.com/GYlk.gif');
     --activetext-colour: white;
 
-    --primary1-colour: red;
-    --primary2-colour: rgba(255,0,0,0.5);
-    --primary3-colour: rgba(100,0,0,0.6);
+    --primary1-colour: blue;
+    --primary2-colour: rgba(0,0,80,1);
+    --primary3-colour: rgba(0,0,80,1);
 
     --secondary1-colour: rgba(50,50,50,0.3);
     --secondary2-colour: rgba(100,100,100,0.5);
