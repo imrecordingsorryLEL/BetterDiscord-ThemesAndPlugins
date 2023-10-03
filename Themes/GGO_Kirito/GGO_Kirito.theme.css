@@ -11,11 +11,11 @@
 
 :root{
     --background: url('https://i.gifer.com/GYlk.gif');
-    --activetext-colour: white;
+    --activetext-colour: red;
 
-    --primary1-colour: blue;
-    --primary2-colour: rgba(0,0,80,1);
-    --primary3-colour: rgba(0,0,80,1);
+    --primary1-colour: red;
+    --primary2-colour: rgba(142,27,29,0.4);
+    --primary3-colour: rgba(142,27,29,0.4);
 
     --secondary1-colour: rgba(50,50,50,0.3);
     --secondary2-colour: rgba(100,100,100,0.5);
